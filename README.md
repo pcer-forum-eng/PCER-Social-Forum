@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Social Platform For Engineering Excellence 
 
-You can use the [editor on GitHub](https://github.com/pcer-forum-eng/pcer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### SCOPE OF OPERATION 
 
-```markdown
-Syntax highlighted code block
+- Interested to contribute in the development of civic, social, environmental , educational, professional, cultural aspects of the Industrial Town Pimpri-Chinchwad and its adjoining area
 
-# Header 1
-## Header 2
-### Header 3
+- Create a platform to interact, socialise, help the Engineer community  through finance, medical facility
 
-- Bulleted
-- List
+- Introduce iconic marvels of the city, The Science Park, Auto Cluster, The grade separator, of the PCMC
 
-1. Numbered
-2. List
+- To make the city future ready, most livable region of the world
 
-**Bold** and _Italic_ and `Code` text
+- To create funds through CSR for self sustaining operation of the forum
 
-[Link](url) and ![Image](src)
-```
+- To gather technical professionals for the assimilation, dissemination , development , introduction , implementation, of knowledge, skills, expertise, professional skills, plans, schemes, related to technology, science of any use, application, development , redevelopment.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- The forum would Endeavour to improve, develop, add, create, new civic amenities, utilities, facilities, programs, schemes in all areas required today tomorrow and in the envisioned future for At least 50 years of global evolving standard by contributing, ideas, plans, schemes, information , technology, etc constantly & continuously 
 
-### Jekyll Themes
+- Result oriented, practical approach to solve citizen’s problem 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pcer-forum-eng/pcer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Collabrate with other departments like Gardening, social forestry for tree plantation which are more oxygen exhaling,  strong rooted trees.
+
+- Create strategy to fight COVID-19 like pandemic with innovative social awareness drive 
+
+- Create innovative models for water distrribution, 
+
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Satish Kulkarni : smk2664@gmail.com /
+engineers@pcer.in
