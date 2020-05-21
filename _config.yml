@@ -6,13 +6,5 @@ theme: jekyll-theme-cayman
 title: Pimpri-Chinchwad-Engineers
 
 github:
-  is_project_page: false
-  
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  is_user_page: false
+  is_project_page: false 
