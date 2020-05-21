@@ -1,5 +1,5 @@
-#theme: jekyll-theme-cayman
-remote_theme: benbalter/retlab
+theme: jekyll-theme-cayman
+#remote_theme: benbalter/retlab
 
 title: Pimpri-Chinchwad-Engineers
 description: Social Platform For Engineering Excellence
