@@ -1,10 +1,24 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
+
   
 theme: jekyll-theme-cayman
-title: Pimpri-Chinchwad-Engineers
 
+title: Pimpri-Chinchwad-Engineers
+description: Pimpri Chinchwad Engineers Social Forum
+
+lang: en-US
 github:
   is_user_page: false
   is_project_page: false 
+  
+# Links to include on the contact page
+contact_links:
+  - name: Twitter
+    url: https://twitter.com
+    icon: twitter
+  - name: Facebook
+    url: https://facebook.com
+    icon: facebook
