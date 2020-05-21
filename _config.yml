@@ -1,3 +1,9 @@
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
 theme: jekyll-theme-cayman
+title: Pimpri-Chinchwad-Engineers Social Forum
+
 github:
   is_project_page: false
