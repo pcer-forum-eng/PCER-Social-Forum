@@ -28,5 +28,5 @@
 - Create innovative models for water distrribution, 
 
 
-### Support or Contact
+### Contact
 engineers@pcer.in
