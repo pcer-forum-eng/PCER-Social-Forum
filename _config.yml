@@ -7,3 +7,12 @@ title: Pimpri-Chinchwad-Engineers Social Forum
 
 github:
   is_project_page: false
+  
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
