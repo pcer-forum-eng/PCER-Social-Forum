@@ -3,7 +3,7 @@ plugins:
   - jekyll-sitemap
   
 theme: jekyll-theme-cayman
-title: Pimpri-Chinchwad-Engineers Social Forum
+title: Pimpri-Chinchwad-Engineers
 
 github:
   is_project_page: false
