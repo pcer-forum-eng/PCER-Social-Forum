@@ -29,5 +29,4 @@
 
 
 ### Support or Contact
-Satish Kulkarni : smk2664@gmail.com /
 engineers@pcer.in
