@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Pimpri-Chinchwad-Engineers Social Forum
+title: Pimpri-Chinchwad Engineers Social Forum
 url: "https://pcer.in"
 baseurl:
 google_analytics_key:
@@ -10,10 +10,10 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: #/siteicon.png
-description: Pimpri-Chinchwad-Engineers Social Forum
+description: Pimpri-Chinchwad Engineers Social Forum
 author:
   name:
-  email:contact@pcer.in
+  email: contact@pcer.in
   twitter: # twitter username without the @ symbol
 social:
   name: PCER
