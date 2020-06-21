@@ -18,7 +18,7 @@ author:
 social:
   name: PCER
   links:
-    -
+    -https://pcer.in/
 
 # -----
 # Build
@@ -105,7 +105,3 @@ _comments:
   description: Text shown when sharing on social media
   blurb: Short bio or description of this person
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENCE
