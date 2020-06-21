@@ -2,7 +2,6 @@
 title: About
 description: We've built an amazing team of engineers and humble people.
 image: 
-
 ---
 
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
@@ -16,6 +15,7 @@ image:
 	</div>
 </section>
 
+<!--
 <section class="pad">
 	<div class="container">
 		<p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Manage Staff Members</a></p>
@@ -23,10 +23,15 @@ image:
 			{% for person in site.staff_members %}
 				<li>
 					<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
+		-->
+					<!--
 					<div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter_username }}">{{ person.name }}</a></div>
+					-->
+	<!--
 					<div class="position">{{ person.position }}</div>
 				</li>
 			{% endfor %}
 		</ul>
 	</div>
 </section>
+-->
